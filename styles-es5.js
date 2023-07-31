@@ -639,9 +639,9 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/swatikp/Desktop/my-ultimate-portfolio-master/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-__webpack_require__(/*! /Users/swatikp/Desktop/my-ultimate-portfolio-master/src/styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! /Users/swatikp/Desktop/my-ultimate-portfolio-master/node_modules/font-awesome/css/font-awesome.css */"./node_modules/font-awesome/css/font-awesome.css");
+__webpack_require__(/*! /Users/swatikp/Documents/my-portfolio/my-ultimate-portfolio/node_modules/bootstrap/dist/css/bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+__webpack_require__(/*! /Users/swatikp/Documents/my-portfolio/my-ultimate-portfolio/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /Users/swatikp/Documents/my-portfolio/my-ultimate-portfolio/node_modules/font-awesome/css/font-awesome.css */"./node_modules/font-awesome/css/font-awesome.css");
 
 
 /***/ })

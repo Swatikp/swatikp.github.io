@@ -67616,8 +67616,9 @@ var TypingAnimationDirective = /** @class */ (function () {
                     ob.complete();
                 }
             });
-            this.contentObservable.subscribe(function (content) {
+            this.contentSubscription = this.contentObservable.subscribe(function (content) {
                 _this.createTyped();
+                _this.contentSubscription.unsubscribe();
             });
             return;
         }
